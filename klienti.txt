@@ -1,0 +1,15 @@
+Klients: Anna Ozola
+E-pasts: anna.ozola@example.com
+Tālrunis: 20001234
+
+Klients: Jānis Bērziņš
+E-pasts: janis.berzins@test.lv
+Tālrunis: 29112233
+
+Klients: Dace Ziemele
+E-pasts: ziemele.dace@paraugs.lv
+Tālrunis: 22255437
+
+Klients: Didzis Pavasaris
+E-pasts: d.pavasaris@peksemplars.com
+Tālrunis: 23345628
