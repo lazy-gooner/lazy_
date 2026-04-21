@@ -10,8 +10,8 @@ pilsētas = ["Rīga", "Daugavpils", "Liepāja", "Jelgava", "Jūrmala",
 
 pensionāru_īpastsvars = sum(pensionāru_īpastsvars)
 
-with open("rezultati.csv", "w", encoding="utf-8", newline="") as save:
+with open("rezultati.csv", "w", encoding="utf-8") as save:
     rakstitajs = csv.writer(save)
     rakstitajs.writerow(["Pilsēta","pensionāru_īpastsvars" (%)"])
     for i in range(len(pilsētas)):
- skaits = pensionaru_skaits[i]
+ pilsētas = pensionaru_skaits[i]
